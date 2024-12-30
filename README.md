@@ -13,7 +13,7 @@ MobileNetV2 was selected for its lightweight architecture and high efficiency, m
 
 ## Instructions 
 1. Ensure you have the required libraries installed (tensorflow, numpy, pandas, matplotlib, sciki-learn).
-2. Download and extract the dataset form Kaggle: {Dogs and Cats Classifier Dataset}(https://www.kaggle.com/datasets/rajarshi2712/dogs-and-cats-classifier).
+2. Download and extract the dataset form Kaggle: [Dogs and Cats Classifier Dataset](https://www.kaggle.com/datasets/rajarshi2712/dogs-and-cats-classifier).
 3. Run the code sequentially:
     - **Data Loading and Preprocessing:** Resize images to 224x224 pixels and normalize pixel values to the range [0, 1].
     - **Model Training:** Train the CNN using the training and validation sets. Early stopping ensures optimal performance.
@@ -34,8 +34,8 @@ MobileNetV2 was selected for its lightweight architecture and high efficiency, m
 Christina Joslin 
 
 ## Acknowledgements 
-- Dataset provided by {Dogs and Cats Classifier Dataset}(https://www.kaggle.com/datasets/rajarshi2712/dogs-and-cats-classifier)
-- Thanks to Tensorflow and Scikit-learn teams for their open-source contributions
+- Dataset provided by [Dogs and Cats Classifier Dataset](https://www.kaggle.com/datasets/rajarshi2712/dogs-and-cats-classifier)
+- Thanks to Tensorflow and Scikit-learn teams for their open-source contributions.
 
 
 
